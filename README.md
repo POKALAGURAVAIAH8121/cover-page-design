@@ -9,7 +9,7 @@ Write your own steps here.
 ### Step 2:
 
 ## Code:
-Include your HTML code here
+
 <!DOCTYPE html>
 <html>
 <head>

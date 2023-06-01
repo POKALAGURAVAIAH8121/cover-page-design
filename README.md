@@ -29,7 +29,7 @@ Include your HTML code here
 </html>
 ## Output:
 Include your output screenshot here
-![Screenshot 2023-06-01 135416](https://github.com/POKALAGURAVAIAH8121/cover-page-design/assets/128034765/fb50754c-54cd-44cb-8752-00fa7ff2a65a)
+![Uploading Screenshot 2023-06-01 135416.png…]()
 
 ## Result:
 Write your result

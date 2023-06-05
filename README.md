@@ -127,7 +127,8 @@ Write your own steps here.
 </html>
 ```
 ## Output:
-![Screenshot 2023-06-05 at 09-12-15 Blue White Playful Illustration Lifestyle Poster](https://github.com/POKALAGURAVAIAH8121/cover-page-design/assets/128034765/0828ba2b-3435-429f-bf1e-0006ffb3bf1b)
+![Modern Geometrical Computer Security Instagram Post ](https://github.com/POKALAGURAVAIAH8121/cover-page-design/assets/128034765/14a8438b-5bd4-4e77-8795-1d35208018b5)
+
 
 
 ## Result:

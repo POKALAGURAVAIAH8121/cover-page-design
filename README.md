@@ -7,7 +7,7 @@ To develop a website to display the cover page design of a book
 ### Step 1:
 Write your own steps here.
 ### Step 2:
-
+....
 ## Code:
 ```
 <!DOCTYPE html>
@@ -33,5 +33,5 @@ Write your own steps here.
 
 
 ## Result:
-Write your result
+
 The cover page design of a book is designed

@@ -9,7 +9,7 @@ Write your own steps here.
 ### Step 2:
 
 ## Code:
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -27,9 +27,9 @@ Write your own steps here.
     
 </body>
 </html>
+```
 ## Output:
-Include your output screenshot here
-![Screenshot 2023-06-01 135416](https://github.com/POKALAGURAVAIAH8121/cover-page-design/assets/128034765/64095cd8-301b-46c6-981b-f73a5767edb4)
+![Screenshot 2023-06-05 at 09-12-15 Blue White Playful Illustration Lifestyle Poster](https://github.com/POKALAGURAVAIAH8121/cover-page-design/assets/128034765/0828ba2b-3435-429f-bf1e-0006ffb3bf1b)
 
 
 ## Result:
